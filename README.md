@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/eli" target="blank"><img src="https://img.shields.io/twitter/follow/bloem_elias?logo=twitter&style=for-the-badge" alt="bloem_elias" /></a> </p>
 
-- 🔭 I’m currently working on [My website](eliasbloem.tk)
+- 🔭 I’m currently working on [My website](https://eliasbloem.tk)
 
 - 🌱 I’m currently learning **js and python**
 
-- 👨‍💻 All of my projects are available at [eliasbloem.tk](eliasbloem.tk)
+- 👨‍💻 All of my projects are available at [eliasbloem.tk](https://eliasbloem.tk)
 
 - 💬 Ask me about **Anything😋**
 
