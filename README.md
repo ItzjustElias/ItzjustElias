@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A big friendly bear ʕ •ᴥ•ʔ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzjustelias&label=Profile%20views&color=0e75b6&style=flat" alt="itzjustelias" /> </p>
 
