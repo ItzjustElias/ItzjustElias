@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzjustelias" alt="itzjustelias" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eli" target="blank"><img src="https://img.shields.io/twitter/follow/bloem_elias?logo=twitter&style=for-the-badge" alt="bloem_elias" /></a> </p>
-
 - 🌱 I’m currently learning **Java 🍵**
 
 - 👨‍💻 All of my projects are available at **Not Ready Yet**
