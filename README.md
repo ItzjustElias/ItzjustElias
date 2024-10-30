@@ -16,7 +16,7 @@
 <h2 align="center">📖 Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,blender,deno,eclipse,github,gradle,idea,java,nodejs,kali,py,ts,unreal,vscode," />
+    <img align="center" src="https://skillicons.dev/icons?i=bash,blender,deno,eclipse,github,gradle,idea,java,nodejs,kali,py,ts,unreal,vscode," />
   </a>
 </p>
 
