@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 
-![Let's Talk About All Things Sports](https://github.com/user-attachments/assets/272dd52a-322b-4e18-867b-ff92c2e586f8)
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itzjustelias&label=Profile%20views&color=0e75b6&style=flat" alt="itzjustelias" /> </p>
 
